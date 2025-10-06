@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b38449b6-7a91-4457-a63c-aecdc00f9ef4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/reports_bot.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sshConfigs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apscheduler_functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dialogs/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dialogs/campagn_dialog.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dialogs/google_sheet_dialog.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dialogs/promo_dialog.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dialogs/report_dialog.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dialogs/schedule_dialog.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dialogs/start_dialog.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions/google_sheet_functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions/other_functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions/promo_functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/getters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/handlers/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/handlers/campaign_handlers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/handlers/google_sheet_handlers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/handlers/promo_handlers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/handlers/report_handlers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/handlers/schedule_handlers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/handlers/start_handlers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lexicon/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lexicon/campaign_message.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lexicon/report_messages.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lexicon/schedule_messages.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lexicon/start_messages.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schedule_config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/states.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package.json" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2v5VWtw6vGsejUdoNMUtZLXCYdA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python._pydev_execfile.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.bot_PromoPages.executor&quot;: &quot;Run&quot;,
+    &quot;Python.campaign_handlers.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.google_sheet.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.other_functions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.promopages.executor&quot;: &quot;Run&quot;,
+    &quot;Python.schedule_handlers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/my_projects/reports_bot/.idea&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\my_projects\reports_bot" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="reports_bot" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="reports_bot" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-PY-242.21829.153" />
+        <option value="bundled-python-sdk-464836ebc622-b74155a9e76b-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.21829.153" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b38449b6-7a91-4457-a63c-aecdc00f9ef4" name="Changes" comment="" />
+      <created>1743434957147</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1743434957147</updated>
+      <workItem from="1743434959467" duration="1328000" />
+      <workItem from="1743444249374" duration="425000" />
+      <workItem from="1743497783948" duration="13000" />
+      <workItem from="1743602155136" duration="3873000" />
+      <workItem from="1744203035537" duration="11093000" />
+      <workItem from="1744265362764" duration="5000" />
+      <workItem from="1744361881864" duration="16614000" />
+      <workItem from="1744476498201" duration="943000" />
+      <workItem from="1744549069681" duration="10399000" />
+      <workItem from="1744575612316" duration="1194000" />
+      <workItem from="1744628741507" duration="21810000" />
+      <workItem from="1744663563087" duration="2935000" />
+      <workItem from="1744696431482" duration="19229000" />
+      <workItem from="1744736156339" duration="732000" />
+      <workItem from="1744788907179" duration="18806000" />
+      <workItem from="1744876196786" duration="22107000" />
+      <workItem from="1744955443970" duration="34907000" />
+      <workItem from="1745003606508" duration="2494000" />
+      <workItem from="1745150355723" duration="8518000" />
+      <workItem from="1745217386341" duration="5000" />
+      <workItem from="1745218015758" duration="25000" />
+      <workItem from="1745221051857" duration="22087000" />
+      <workItem from="1745265730899" duration="2035000" />
+      <workItem from="1745306367827" duration="24472000" />
+      <workItem from="1745354363825" duration="546000" />
+      <workItem from="1745398123582" duration="25819000" />
+      <workItem from="1745477269523" duration="27070000" />
+      <workItem from="1745524758083" duration="5000" />
+      <workItem from="1745562947130" duration="28501000" />
+      <workItem from="1745650109215" duration="651000" />
+      <workItem from="1745776987142" duration="701000" />
+      <workItem from="1745826250738" duration="15675000" />
+      <workItem from="1745908195984" duration="10337000" />
+      <workItem from="1745928432657" duration="250000" />
+      <workItem from="1746454593517" duration="4198000" />
+      <workItem from="1746458925862" duration="3539000" />
+      <workItem from="1746509081477" duration="14933000" />
+      <workItem from="1746524429666" duration="1830000" />
+      <workItem from="1746530726529" duration="21000" />
+      <workItem from="1746606943702" duration="965000" />
+      <workItem from="1746608140332" duration="9623000" />
+      <workItem from="1746649450200" duration="10000" />
+      <workItem from="1746797816218" duration="4084000" />
+      <workItem from="1746890095396" duration="343000" />
+      <workItem from="1746891047993" duration="921000" />
+      <workItem from="1746976891124" duration="199000" />
+      <workItem from="1747038856402" duration="26000" />
+      <workItem from="1751352428309" duration="4304000" />
+      <workItem from="1751450850945" duration="14000" />
+      <workItem from="1756881627444" duration="627000" />
+      <workItem from="1756882676567" duration="78000" />
+      <workItem from="1756883008807" duration="578000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName=".env" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/reports_bot$campaign_handlers.coverage" NAME="campaign_handlers Coverage Results" MODIFIED="1744990891357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/handlers" />
+    <SUITE FILE_PATH="coverage/reports_bot$google_sheet.coverage" NAME="google_sheet Coverage Results" MODIFIED="1744995610099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/reports_bot$promopages.coverage" NAME="promopages Coverage Results" MODIFIED="1751353726961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/reports_bot$main.coverage" NAME="main Coverage Results" MODIFIED="1745150487087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/reports_bot$bot_PromoPages.coverage" NAME="bot_PromoPages Coverage Results" MODIFIED="1746521167028" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/reports_bot$schedule_handlers.coverage" NAME="schedule_handlers Coverage Results" MODIFIED="1745496167460" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/handlers" />
+    <SUITE FILE_PATH="coverage/reports_bot$_pydev_execfile.coverage" NAME="_pydev_execfile Coverage Results" MODIFIED="1744990893583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/pydev/_pydev_imps" />
+    <SUITE FILE_PATH="coverage/reports_bot$test.coverage" NAME="test Coverage Results" MODIFIED="1745650242945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/reports_bot$other_functions.coverage" NAME="other_functions Coverage Results" MODIFIED="1744213240545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/functions" />
+  </component>
+</project>
